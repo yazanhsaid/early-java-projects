@@ -1,8 +1,3 @@
-/* Yazan Hajsaid
- * Jiang Li
- * CSC 222
- * Programming assignment 4
- */
 
 import java.util.*;
 public class ProgrammingAssignment4 {
@@ -70,9 +65,6 @@ The first prime numbers are:
 13
 17
 19
-23
- 
-
- 
+23 
  */
 
